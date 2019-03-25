@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.exe.config
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.exe
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.pdb
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.exe
+C:\Users\HP\source\repos\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.pdb
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.exe.config
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.exe
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\bin\Debug\111018_zadatak_1.pdb
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.csprojAssemblyReference.cache
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.csproj.CoreCompileInputs.cache
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.exe
+E:\zadaci c sharp\111018_zadatak_1\111018_zadatak_1\obj\Debug\111018_zadatak_1.pdb
